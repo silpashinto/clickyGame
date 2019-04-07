@@ -1,0 +1,11 @@
+.title {
+  width: 100%;
+  height: 4rem;
+  text-align: center;
+  font-size: 2rem;
+  color:white;
+  margin-bottom: 20px;
+  background:navy;
+  padding-top: 10px;
+  font: fantasy;
+}
